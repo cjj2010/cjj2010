@@ -2,6 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjj2010&show_icons=true&theme=cobalt)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cjj2010&repo=doris&theme=cobalt)](https://github.com/apache/doris)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjj2010&layout=compact&theme=tokyonight)
 <!--
 **cjj2010/cjj2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
