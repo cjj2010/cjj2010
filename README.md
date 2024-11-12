@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on BI application and data warehouse development
+- 🌱 I’m currently learning Big Data Analysis Model
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjj2010&show_icons=true&theme=cobalt)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cjj2010&repo=doris&theme=cobalt)](https://github.com/apache/doris)
